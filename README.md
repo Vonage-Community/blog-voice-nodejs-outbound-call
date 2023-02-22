@@ -1,6 +1,6 @@
 # How to Make an Outbound Text-to-Speech Phone Call with Node.js Sample
 
-This repository shows you how to use the Vonage Voice API to create a text-to-speech outbound phone call securely. For more information, please see the blog post located [here]().
+This repository shows you how to use the Vonage Voice API to create a text-to-speech outbound phone call securely. For more information, please see the blog post located [here](https://developer.vonage.com/en/blog/how-to-make-an-outbound-text-to-speech-phone-call-with-node-js).
 
 - [How to Make an Outbound Text-to-Speech Phone Call with Node.js Sample](#how-to-make-an-outbound-text-to-speech-phone-call-with-nodejs-sample)
   - [Requirements](#requirements)
